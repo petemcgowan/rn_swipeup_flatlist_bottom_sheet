@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+rn_swipeup_flatlist_bottom_sheet.code-workspace
+notesdraft/Zara bag with bottom sheet-22.16.04.png
